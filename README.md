@@ -11,7 +11,7 @@ This repository contains Final code for the Python Fast API. <br />
 ![HOME](https://github.com/codernisha/python-fastapi/blob/master/images/Screenshot.png)
 
 ### Step 1: Install Required Package
-`pip install fastapi`<br />`
+`pip install fastapi`<br />
 `pip install uvicorn[standard]`<br />
 `pip install mysqlclient`<br />
 
